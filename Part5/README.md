@@ -1,0 +1,11 @@
+# README
+- Folder1
+  - SparseBoundedGrid.java : Use a linked list to implement Grid
+  - SparseGridNode.java : list node
+  - SparseGridRunner.java : test runner file
+- Folder2
+  - SparseBoundedGrid2.java : Use HashMap to implement Grid
+  - SparseGridRunner.java : test runner file
+- Folder3
+  - UnboundedGrid2.java : Use resize and two-dimensional array to impement unbounder Grid
+  - SparseGridRunner.java : test runner file

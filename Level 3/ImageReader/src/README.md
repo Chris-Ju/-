@@ -1,0 +1,13 @@
+- ImplementImageIO
+    - myRead 
+    - myWrite
+- ImplementImageProcessor
+    - showChanelR 
+    - showChanelG
+    - showChanelB
+    - showGray
+- ImageProcessorTest
+    - redTest
+    - greenTest
+    - blueTest
+    - grayTest
